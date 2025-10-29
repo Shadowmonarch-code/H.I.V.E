@@ -1,0 +1,6 @@
+*.txt
+!requirements.txt
+.git
+.env
+amp1
+__pycache__
